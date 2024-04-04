@@ -1,0 +1,1 @@
+In this document you'll find the screenshot named as Questions-of-Part_1 in which i have displayed the total number of questions attempted by me in part 1, along with the screenshots as a proof that i have completed my work. Third one (quality-control-assign) is just a csv file from while i imported my data using mongosh.

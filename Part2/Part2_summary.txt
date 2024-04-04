@@ -1,0 +1,3 @@
+In this part 2, i have completed the remaining questions. Starting from creating a workload excel file to performing 3 different aggregation functions in 3 different pipelines.
+
+I have attached the list of the questions that i have done in this part 2, the excel file named as workload and my screenshots as a proof of my work.
